@@ -1,0 +1,8 @@
+run frontend 
+go to the terminal 
+cd React_frontend
+npm run dev
+
+add new terminal
+cd node_backend
+npm run start
