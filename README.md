@@ -1,15 +1,7 @@
-# 💼 JobWorld - Fullstack Job Portal
+# 💼 JobJUMBO - Fullstack Job Portal
 
 A modern job portal web app built using **MERN Stack** (MongoDB + Express.js + React + Node.js).  
 Users can apply for jobs, companies can post jobs, and both parties can track everything in their dashboards.
-
-## 🌐 Live Site
-
-**Frontend + Backend (Combined Deployment):**  
-🔗 [https://jobworld-new.onrender.com]
-
-⚠️ **Note:** Backend Render server may take **30-50 seconds** to wake up (Free Tier).  
-Pehli request pe error aa sakta hai — 2 baar refresh karo, sab thik ho jayega ✅
 
 ---
 
@@ -82,3 +74,4 @@ npm install
 | Company Job Posting | Protected JWT + File Upload     |
 | Charts + Dashboard  | React + Chart.js + Tailwind CSS |
 | Animations & UI     | Framer Motion + Radix + ShadCN  |
+
